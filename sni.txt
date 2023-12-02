@@ -14,3 +14,8 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+psionic-storm.com
+etincelle.ma
+joxaren.ru
+webvison.net
+pilotelogitechfr.com
